@@ -50,7 +50,7 @@ const Form = ({
         </div>
         <button
           disabled={!query}
-          className="w-full py-2 rounded-lg bg-indigo-600"
+          className="w-full py-2 rounded-lg bg-indigo-600 hover:bg-indigo-800 duration-200"
         >
           Search
         </button>

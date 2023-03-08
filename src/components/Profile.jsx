@@ -151,7 +151,7 @@ const Profile = ({ users, handleClick }) => {
 
       <div>
         <button
-          className="w-full mt-8 py-2 bg-indigo-600 rounded-lg"
+          className="w-full mt-8 py-2 bg-indigo-600 rounded-lg hover:bg-indigo-800 duration-200"
           onClick={handleClick}
         >
           View {users.name.split(" ")[0]}'s repos
