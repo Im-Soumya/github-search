@@ -156,7 +156,7 @@ const Profile = ({ users, handleClick }) => {
         >
           View {users.name.split(" ")[0]}'s repos
         </button>
-        <p className="text-center text-gray-500 text-xs md:text-sm mt-2">Note:To view the repos of the current user, search again</p>
+        <p className="text-center text-gray-500 text-xs md:text-sm mt-2">Note: To view the repos of the current user, search again</p>
       </div>
     </div>
   );

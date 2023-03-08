@@ -1,4 +1,8 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Spot the Devs 🔍
+
+This is a small app that lets users to search github users by their username and view their repositories.
+
+[Check it out](https://github-search-lake.vercel.app/)
 
 ## Getting Started
 
